@@ -1,5 +1,5 @@
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
-function Social() {
+export function Social() {
   return (
     <>
       <a href="https://github.com/AppBlitz">
@@ -11,4 +11,3 @@ function Social() {
     </>
   );
 }
-export default Social;

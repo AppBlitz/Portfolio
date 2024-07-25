@@ -1,8 +1,7 @@
-import Social from "./components/Social.jsx";
 function App() {
   return (
     <>
-      <Social />
+      <div>Hello word</div>
     </>
   );
 }
