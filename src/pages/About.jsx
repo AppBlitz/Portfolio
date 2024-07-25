@@ -2,12 +2,11 @@ import { Contact } from "./Contact.jsx";
 export function About() {
   return (
     <div>
-      <div className="title">About me</div>
+      <div className=""  >About me</div>
       <div className="content">
-        Software developer (fullsatck), improving my knowledge, I like to share
-        my knowledge, I like to read, series, movies, anime and manga. The
-        sunsets and improving my social skills, programmer, knowing the new
-        technologies that are coming out
+        Student passionate about continuous learning in web and mobile programming. I love reading, watching videos, and creating websites that fun and challenge me.
+        I am focused on improving my skills in technologies such as java, typescript, javascript, react, angular and among others.
+        I am also looking to improve my skills in communication and treating people.
       </div>
       <div>
         <Contact />

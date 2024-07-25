@@ -1,7 +1,8 @@
+import { Email } from './components/email/Email.jsx'
 function App() {
   return (
     <>
-      <div>Hello word</div>
+      <Email />
     </>
   );
 }
