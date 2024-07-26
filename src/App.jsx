@@ -1,4 +1,4 @@
-import { Email } from './components/email/Email.jsx'
+import { Email } from "./components/email/Email.jsx";
 function App() {
   return (
     <>
