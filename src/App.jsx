@@ -1,10 +1,7 @@
-import { Email } from "./components/email/Email.jsx";
-function App() {
-  return (
-    <>
-      <Email />
-    </>
-  );
-}
-
+import { Skill } from './components/index.js'
+const App = () => {
+  return <div>
+    <Skill />
+  </div>;
+};
 export default App;
